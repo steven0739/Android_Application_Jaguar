@@ -8,6 +8,7 @@ import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
+import android.location.Criteria;
 import android.os.Build;
 import android.os.Handler;
 import android.support.annotation.NonNull;
@@ -323,7 +324,7 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
             LatLng userLocation = new LatLng(location.getLatitude(), location.getLongitude());
 
             mMap.clear();
-            mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 9));
+            mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 14));
             mMap.addMarker(new MarkerOptions().position(userLocation).title("Your Location"));
 
         }
@@ -381,8 +382,21 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
+        mMap.setMyLocationEnabled(true);
 
         locationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
+        //Location current_location = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+        //if (current_location == null) {
+            //Criteria criteria = new Criteria();
+            //criteria.setAccuracy(Criteria.ACCURACY_COARSE);
+            //String provider = locationManager.getBestProvider(criteria, true);
+            //current_location = locationManager.getLastKnownLocation(provider);
+        //}
+
+        //if(current_location != null){
+            //LatLng user_location = new LatLng(current_location.getLatitude(), current_location.getLongitude());
+            //mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(user_location, 15), 1500, null);
+        //}
 
         locationListener = new LocationListener() {
             @Override
@@ -428,7 +442,7 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
                 if (lastKnownLocation != null) {
 
                     updateMap(lastKnownLocation);
-
+                    //System.out.print("this is output: " + lastKnownLocation);
                 }
 
 
