@@ -16,24 +16,24 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_cast_ic_notification_0.png.flat",
@@ -60,12 +60,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/6c4b7af84394576717e414a845b45fd1/res/drawable-hdpi-v4/places_ic_clear.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_mini_controller_stop_large.xml.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable/cast_ic_mini_controller_stop_large.xml"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_mini_controller_stop_large.xml.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable/cast_ic_mini_controller_stop_large.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_cast_ic_notification_on.png.flat",
@@ -92,12 +92,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -124,12 +124,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/ff2df559cbf1d97d281c5fcf57cba8e1/res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/ff2df559cbf1d97d281c5fcf57cba8e1/res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
@@ -152,12 +152,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_play_light.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-xhdpi/ic_play_light.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
@@ -180,12 +180,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi_ic_media_play.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-hdpi/ic_media_play.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_rider.xml.flat",
         "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/res/layout/activity_rider.xml"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi_ic_media_play.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-hdpi/ic_media_play.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_expanded_controller_skip_next.xml.flat",
@@ -244,12 +244,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -348,12 +348,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable/cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_skip_next_white_36.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_skip_next_white_36.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -368,12 +368,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_common_plus_signin_btn_text_light.xml.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable/common_plus_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_places_ic_search.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/6c4b7af84394576717e414a845b45fd1/res/drawable-mdpi-v4/places_ic_search.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_common_plus_signin_btn_text_light.xml.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable/common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
@@ -408,20 +408,20 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_pause_grey600_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xhdpi-v4/quantum_ic_pause_grey600_36.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_skip_previous_white_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xhdpi-v4/quantum_ic_skip_previous_white_36.png"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_pause_grey600_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xhdpi-v4/quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_skip_previous_white_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xhdpi-v4/quantum_ic_skip_previous_white_36.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
@@ -568,20 +568,20 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-hdpi-v4/quantum_ic_cast_connected_white_24.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_skip_next_white_24.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_media_route_disabled_mono_dark.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-xhdpi/ic_media_route_disabled_mono_dark.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_skip_next_white_24.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_full_open_on_phone.png.flat",
@@ -608,12 +608,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-xxhdpi/ic_setting_dark.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_art_track_grey600_48.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_play_arrow_grey600_36.png.flat",
@@ -636,16 +636,16 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-hdpi-v4/quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_forward_30_white_24.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-hdpi-v4/quantum_ic_forward_30_white_24.png"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_dark.xml.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/color/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_place_autocomplete_fragment.xml.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/6c4b7af84394576717e414a845b45fd1/res/layout/place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_dark.xml.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/color/common_plus_signin_btn_text_dark.xml"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_forward_30_white_24.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-hdpi-v4/quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
@@ -676,16 +676,16 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_skip_previous_grey600_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxxhdpi-v4/quantum_ic_skip_previous_grey600_36.png"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_closed_caption_white_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_closed_caption_white_36.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_closed_caption_white_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_closed_caption_white_36.png"
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_skip_previous_grey600_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxxhdpi-v4/quantum_ic_skip_previous_grey600_36.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_expanded_controller_closed_caption.xml.flat",
@@ -728,12 +728,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_skip_prev.xml.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_light.xml.flat",
@@ -840,12 +840,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-xhdpi/ic_setting_light.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
@@ -1068,12 +1068,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_forward_10_white_24.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xhdpi-v4/quantum_ic_pause_grey600_48.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_pause_white_24.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxxhdpi-v4/quantum_ic_pause_white_24.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xhdpi-v4/quantum_ic_pause_grey600_48.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1092,12 +1092,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-mdpi/ic_media_route_on_mono_dark.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_pause_grey600_36.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-hdpi-v4/quantum_ic_pause_grey600_36.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_cast_connected_white_24.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_cast_connected_white_24.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_pause_grey600_36.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-hdpi-v4/quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_skip_next_white_24.png.flat",
@@ -1132,12 +1132,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
@@ -1156,12 +1156,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_media_play.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-xhdpi/ic_media_play.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
@@ -1224,12 +1224,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/ff2df559cbf1d97d281c5fcf57cba8e1/res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_pause_grey600_48.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_connecting.xml.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/9ae26a1e8d87c06dcb4225cd9358d1b3/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_pause_grey600_48.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-mdpi-v4/quantum_ic_pause_grey600_48.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -2316,12 +2316,12 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_cast_ic_notification_2.png.flat",
-        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/9ae26a1e8d87c06dcb4225cd9358d1b3/res/drawable-hdpi-v4/cast_ic_notification_2.png"
-    },
-    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi_ic_cast_on_1_light.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-hdpi/ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_cast_ic_notification_2.png.flat",
+        "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/9ae26a1e8d87c06dcb4225cd9358d1b3/res/drawable-hdpi-v4/cast_ic_notification_2.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
@@ -2584,16 +2584,16 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/drawable_abc_ratingbar_full_material.xml.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
