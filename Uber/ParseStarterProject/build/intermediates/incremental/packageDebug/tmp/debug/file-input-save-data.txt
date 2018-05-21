@@ -1,17 +1,17 @@
 #Internal package file, do not edit.
-#Mon May 21 09:37:35 PDT 2018
-2.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/33
+#Mon May 21 14:22:47 PDT 2018
+2.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/87
 5.set=DEX
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/32
+3.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/89
 2.set=DEX
 1.path=classes.dex
-4.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/35
+4.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/91
 count=6
 5.baseType=DIRECTORY
 2.path=classes.dex
-5.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/34
+5.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/90
 4.set=DEX
 3.path=classes.dex
 3.baseType=DIRECTORY
@@ -19,9 +19,9 @@ count=6
 4.path=classes.dex
 1.baseType=DIRECTORY
 5.path=classes.dex
-0.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/31
+0.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/92
 0.baseType=DIRECTORY
 3.set=DEX
-1.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/30
+1.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/88
 4.baseType=DIRECTORY
 0.set=DEX

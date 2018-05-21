@@ -86,7 +86,8 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
                             if (e == null && objects.size() > 0) {
 
                                 ParseGeoPoint driverLocation = objects.get(0).getParseGeoPoint("location");
-
+                                //Log.d("this is test 1", driverLocation.toString());
+                                driverLocation = new ParseGeoPoint(30.0, 50.0); //debugging
                                 if (Build.VERSION.SDK_INT < 23 || ContextCompat.checkSelfPermission(RiderActivity.this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
 
                                     Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
@@ -94,7 +95,7 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
                                     if (lastKnownLocation != null) {
 
                                         ParseGeoPoint userLocation = new ParseGeoPoint(lastKnownLocation.getLatitude(), lastKnownLocation.getLongitude());
-
+                                        Log.d("this is a tag",userLocation.toString()); //debugging
                                         Double distanceInMiles = driverLocation.distanceInMilesTo(userLocation);
 
                                         if (distanceInMiles < 0.01) {
