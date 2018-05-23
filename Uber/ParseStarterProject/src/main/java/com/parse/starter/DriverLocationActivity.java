@@ -97,7 +97,7 @@ public class DriverLocationActivity extends FragmentActivity implements OnMapRea
             @Override
             public void onGlobalLayout() {
 
-                LatLng driverLocation = new LatLng(intent.getDoubleExtra("driverLatitude", 0), intent.getDoubleExtra("driverLongitude", 0));
+                LatLng driverLocation = new LatLng(intent.getDoubleExtra("driverLatitude", 33), intent.getDoubleExtra("driverLongitude", -118.5));
 
                 LatLng requestLocation = new LatLng(intent.getDoubleExtra("requestLatitude", 0), intent.getDoubleExtra("requestLongitude", 0));
 

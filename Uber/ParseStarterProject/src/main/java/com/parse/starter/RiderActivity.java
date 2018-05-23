@@ -319,15 +319,15 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
 
     public void updateMap(Location location) {
 
-        if (driverActive == false) {
+        //if (driverActive == false) {
 
             LatLng userLocation = new LatLng(location.getLatitude(), location.getLongitude());
 
             mMap.clear();
-            mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 8));
+            mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 15));
             mMap.addMarker(new MarkerOptions().position(userLocation).title("Your Location"));
 
-        }
+        //}
 
     }
 

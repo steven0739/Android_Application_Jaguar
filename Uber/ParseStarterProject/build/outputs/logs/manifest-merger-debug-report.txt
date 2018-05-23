@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
-INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
-INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
-INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
+INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
+INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
+INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/689db443d8775d5cfe0904bd0ee0e776/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/9ae26a1e8d87c06dcb4225cd9358d1b3/AndroidManifest.xml:16:1-20:12
@@ -59,20 +59,20 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/StevenYang
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/3573d9987f863a269209bf654f8ab2fb/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/98c4fe4e446a0cabb7a15b7e9b125fd0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:23.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e382a4e9ef2d6f5c88cded98e9c1c2df/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
-INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
-INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
+INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
+INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
+INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
 	package
 		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
 		INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-66:12
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:1-67:12
 		INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
@@ -138,8 +138,12 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
 	android:name
 		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:17:19-63
 application
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:23:5-64:19
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:24:5-65:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/689db443d8775d5cfe0904bd0ee0e776/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/689db443d8775d5cfe0904bd0ee0e776/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/AndroidManifest.xml:5:5-9:19
@@ -231,65 +235,65 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/StevenYa
 MERGED from [com.android.support:support-v4:23.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e382a4e9ef2d6f5c88cded98e9c1c2df/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /Users/StevenYang/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e382a4e9ef2d6f5c88cded98e9c1c2df/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:27:9-41
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:28:9-41
 	android:icon
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:26:9-43
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:27:9-43
 	android:allowBackup
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:26:9-35
 	android:theme
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:28:9-40
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:29:9-40
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:24:9-43
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:25:9-43
 meta-data#com.parse.APPLICATION_ID
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:29:9-31:52
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:30:9-32:52
 	android:value
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:31:13-49
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:32:13-49
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:30:13-52
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:31:13-52
 meta-data#com.parse.CLIENT_KEY
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:32:9-34:56
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:33:9-35:56
 	android:value
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:34:13-53
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:35:13-53
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:33:13-48
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:34:13-48
 activity#com.parse.starter.MainActivity
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:36:9-44:20
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:37:9-45:20
 	android:label
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:38:13-45
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:39:13-45
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:37:13-41
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:38:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:39:13-43:29
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:40:17-69
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:40:25-66
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:42:17-77
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:42:27-74
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:43:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:53:9-55:55
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:54:9-56:55
 	android:value
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:55:13-52
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:56:13-52
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:54:13-58
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:55:13-58
 activity#com.parse.starter.RiderActivity
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:57:9-59:60
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:58:9-60:60
 	android:label
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:59:13-57
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:60:13-57
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:58:13-42
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:59:13-42
 activity#com.parse.starter.ViewRequestsActivity
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:60:9-58
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:61:9-58
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:60:19-55
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:61:19-55
 activity#com.parse.starter.DriverLocationActivity
-ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:61:9-63:79
+ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:62:9-64:79
 	android:label
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:63:13-67
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:64:13-67
 	android:name
-		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:62:13-51
+		ADDED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml:63:13-51
 uses-sdk
 INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/src/main/AndroidManifest.xml

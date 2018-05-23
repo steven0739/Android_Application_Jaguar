@@ -221,7 +221,7 @@ public class ViewRequestsActivity extends AppCompatActivity {
 
         if (Build.VERSION.SDK_INT < 23) {
 
-            locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
+            locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 1, 1, locationListener);
 
         } else {
 
@@ -232,7 +232,7 @@ public class ViewRequestsActivity extends AppCompatActivity {
 
             } else {
 
-                locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
+                locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 1, 1, locationListener);
 
                 Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
 

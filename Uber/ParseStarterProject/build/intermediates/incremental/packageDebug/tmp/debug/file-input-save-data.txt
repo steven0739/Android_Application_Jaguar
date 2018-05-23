@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 21 15:54:04 PDT 2018
+#Tue May 22 22:37:05 PDT 2018
 2.base=/Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/15
 5.set=DEX
 0.path=classes.dex
