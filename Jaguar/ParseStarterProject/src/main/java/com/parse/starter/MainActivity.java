@@ -12,7 +12,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.Switch;
+import android.widget.Toast;
 
 import com.parse.LogInCallback;
 import com.parse.Parse;
@@ -27,17 +29,27 @@ public class MainActivity extends AppCompatActivity {
 
   public void redirectActivity() {
 
-    if (ParseUser.getCurrentUser().getString("riderOrDriver").equals("rider")) {
+    String username = ((EditText) findViewById(R.id.username)).getText().toString();
+
+    if( !(username.equals("wangchengyu") || username.equals("yangpochao") || username.equals("xuezhouyang"))){
+      Toast.makeText(this,"Wrong username" ,Toast.LENGTH_SHORT).show();
+      return;
+    }
+
+    else {
+
+      if (ParseUser.getCurrentUser().getString("riderOrDriver").equals("rider")) {
 
         Intent intent = new Intent(getApplicationContext(), RiderActivity.class);
         startActivity(intent);
 
-    } else {
+      } else {
 
-      Intent intent = new Intent(getApplicationContext(), ViewRequestsActivity.class);
+        Intent intent = new Intent(getApplicationContext(), ViewRequestsActivity.class);
         startActivity(intent);
 
 
+      }
     }
   }
 
