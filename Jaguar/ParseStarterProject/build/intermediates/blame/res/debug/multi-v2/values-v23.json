@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/andrew/Desktop/Jaguar/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/bbfbaec77a2ac5177617d983c0a8533d/res/values-v23/values-v23.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

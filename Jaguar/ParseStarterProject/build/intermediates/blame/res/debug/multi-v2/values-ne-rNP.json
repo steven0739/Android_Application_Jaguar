@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/andrew/Desktop/Jaguar/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml",
+            "outputFile": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml",
             "map": [
                 {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/bbfbaec77a2ac5177617d983c0a8533d/res/values-ne-rNP/values-ne-rNP.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,160,268,391,495,603,694,801,928,1022,1112,1200,1310,1426,1529,1644,1746,1861,1992,2104",
-                        "endColumns": "104,107,122,103,107,90,106,126,93,89,87,109,115,102,114,101,114,130,111,100",
-                        "endOffsets": "155,263,386,490,598,689,796,923,1017,1107,1195,1305,1421,1524,1639,1741,1856,1987,2099,2200"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,160,268,391,495,603,694,801,928,1022,1112,1200,1310,1426,1529,1644,1746,1861,1992,3285",
-                        "endColumns": "104,107,122,103,107,90,106,126,93,89,87,109,115,102,114,101,114,130,111,100",
-                        "endOffsets": "155,263,386,490,598,689,796,923,1017,1107,1195,1305,1421,1524,1639,1741,1856,1987,2099,3381"
-                    }
-                },
-                {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/f6b12ff775e1f4dcbdb59f852c2a780c/res/values-ne-rNP/values-ne-rNP.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/values-ne-rNP/values-ne-rNP.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "2104,2210,2332,2443,2556,2677,2778,2878,2994,3103,3190",
                         "endColumns": "105,121,110,112,120,100,99,115,108,86,94",
                         "endOffsets": "2205,2327,2438,2551,2672,2773,2873,2989,3098,3185,3280"
+                    }
+                },
+                {
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/values-ne-rNP/values-ne-rNP.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,603,694,801,928,1022,1112,1200,1310,1426,1529,1644,1746,1861,1992,2104",
+                        "endColumns": "104,107,122,103,107,90,106,126,93,89,87,109,115,102,114,101,114,130,111,100",
+                        "endOffsets": "155,263,386,490,598,689,796,923,1017,1107,1195,1305,1421,1524,1639,1741,1856,1987,2099,2200"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,603,694,801,928,1022,1112,1200,1310,1426,1529,1644,1746,1861,1992,3285",
+                        "endColumns": "104,107,122,103,107,90,106,126,93,89,87,109,115,102,114,101,114,130,111,100",
+                        "endOffsets": "155,263,386,490,598,689,796,923,1017,1107,1195,1305,1421,1524,1639,1741,1856,1987,2099,3381"
                     }
                 }
             ]

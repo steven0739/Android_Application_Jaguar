@@ -24,7 +24,7 @@
         android:layout_height="225dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="94dp"
+        android:layout_marginTop="19dp"
         app:srcCompat="@drawable/tiger" />
 
     <Switch
@@ -32,8 +32,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="99dp" />
+        android:layout_marginBottom="23dp"
+        android:layout_toEndOf="@+id/button" />
 
     <TextView
         android:text="Driver"
@@ -65,9 +65,30 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="200dp"
+        android:layout_marginBottom="151dp"
         android:background="#dfdcdc"
         android:onClick="getStarted"
         android:text="PRESS TO LOG IN" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:hint="username:"
+        android:inputType="textEmailAddress"
+        android:singleLine="false" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="216dp"
+        android:ems="10"
+        android:hint="password:"
+        android:inputType="textPassword" />
 
 </RelativeLayout>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/andrew/Desktop/Jaguar/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/4b338035cbbf24c8094a7abb04c73eec/res/values-en-rCA/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/eb8f410e0d68c08f5b02f7f72cd794da/res/values-en-rCA/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

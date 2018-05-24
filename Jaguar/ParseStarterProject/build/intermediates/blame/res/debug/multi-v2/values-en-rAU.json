@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/andrew/Desktop/Jaguar/Uber/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/4b338035cbbf24c8094a7abb04c73eec/res/values-en-rAU/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "292",
-                        "endColumns": "103",
-                        "endOffsets": "391"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,387,501,606,711,831,927,1021,1140,1242,1328",
+                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
+                        "endOffsets": "382,496,601,706,826,922,1016,1135,1237,1323,1417"
                     },
                     "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3210",
-                        "endColumns": "103",
-                        "endOffsets": "3309"
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1969,2074,2188,2293,2398,2518,2614,2708,2827,2929,3015",
+                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
+                        "endOffsets": "2069,2183,2288,2393,2513,2609,2703,2822,2924,3010,3104"
                     }
                 },
                 {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/bbfbaec77a2ac5177617d983c0a8533d/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b115fdc244f2f3b859294ca3f03fd1d1/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "/Users/andrew/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/f6b12ff775e1f4dcbdb59f852c2a780c/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/eb8f410e0d68c08f5b02f7f72cd794da/res/values-en-rAU/values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "282,387,501,606,711,831,927,1021,1140,1242,1328",
-                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
-                        "endOffsets": "382,496,601,706,826,922,1016,1135,1237,1323,1417"
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "292",
+                        "endColumns": "103",
+                        "endOffsets": "391"
                     },
                     "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1969,2074,2188,2293,2398,2518,2614,2708,2827,2929,3015",
-                        "endColumns": "104,113,104,104,119,95,93,118,101,85,93",
-                        "endOffsets": "2069,2183,2288,2393,2513,2609,2703,2822,2924,3010,3104"
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3210",
+                        "endColumns": "103",
+                        "endOffsets": "3309"
                     }
                 }
             ]
