@@ -1,0 +1,4 @@
+#Wed May 23 20:02:19 PDT 2018
+base.0=/Users/andrew/Desktop/Jaguar/Uber/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,3 +1,0 @@
-# Referenced at /Users/StevenYang/Desktop/Android_Application_Jaguar/Uber/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:45
--keep class com.parse.starter.StarterApplication { <init>(...); }
-
