@@ -211,7 +211,7 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
     }
 
     public void refresh(View view){
-        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+        Intent intent = new Intent(getApplicationContext(), RiderActivity.class);
         startActivity(intent);
         checkForUpdates();
     }

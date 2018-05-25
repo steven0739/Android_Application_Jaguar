@@ -1,3 +1,3 @@
-# Referenced at /Users/wangchengyu/Desktop/Android_Application_Jaguar/Jaguar/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:45
+# Referenced at /Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:45
 -keep class com.parse.starter.StarterApplication { <init>(...); }
 
