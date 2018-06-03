@@ -1,0 +1,4 @@
+#Sun Jun 03 16:37:14 PDT 2018
+base.0=/Users/wangchengyu/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
