@@ -2124,6 +2124,10 @@
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/layout_activity_navigation.xml.flat",
+        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/src/main/res/layout/activity_navigation.xml"
+    },
+    {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable-mdpi_ic_media_play.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/00041e1a323d2d0c1d56e4c72f3388e1/res/drawable-mdpi/ic_media_play.png"
     },
@@ -2138,10 +2142,6 @@
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_cast_connected_white_24.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/drawable-xxhdpi-v4/quantum_ic_cast_connected_white_24.png"
-    },
-    {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/layout_activity_driver_location.xml.flat",
-        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/src/main/res/layout/activity_driver_location.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_setting_dark.png.flat",
@@ -2342,6 +2342,10 @@
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/layout_activity_driver.xml.flat",
+        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/src/main/res/layout/activity_driver.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
@@ -3438,10 +3442,6 @@
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
         "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
-        "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/layout_activity_view_requests.xml.flat",
-        "source": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/src/main/res/layout/activity_view_requests.xml"
     },
     {
         "merged": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/res/merged/debug/drawable_cast_ic_mini_controller_play.xml.flat",

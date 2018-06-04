@@ -1079,10 +1079,10 @@ int layout abc_screen_toolbar 0x7f0a0015
 int layout abc_search_dropdown_item_icons_2line 0x7f0a0016
 int layout abc_search_view 0x7f0a0017
 int layout abc_select_dialog_material 0x7f0a0018
-int layout activity_driver_location 0x7f0a0019
+int layout activity_driver 0x7f0a0019
 int layout activity_main 0x7f0a001a
-int layout activity_rider 0x7f0a001b
-int layout activity_view_requests 0x7f0a001c
+int layout activity_navigation 0x7f0a001b
+int layout activity_rider 0x7f0a001c
 int layout cast_expanded_controller_activity 0x7f0a001d
 int layout cast_help_text 0x7f0a001e
 int layout cast_intro_overlay 0x7f0a001f
