@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/wangchengyu/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+            "outputFile": "/Users/StevenYang/Desktop/Android_Application_Jaguar/Jaguar/Jaguar/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
             "map": [
                 {
-                    "source": "/Users/wangchengyu/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/e18bedfe9aab5c60003192d85556cba8/res/values-kn/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/3573d9987f863a269209bf654f8ab2fb/res/values-kn/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/wangchengyu/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/4bd33b10702c3de525772d5ec1b0adf6/res/values-kn/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/eb8f410e0d68c08f5b02f7f72cd794da/res/values-kn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "108",
+                        "endOffsets": "392"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "7060",
+                        "endColumns": "108",
+                        "endOffsets": "7164"
+                    }
+                },
+                {
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/9ae26a1e8d87c06dcb4225cd9358d1b3/res/values-kn/values.xml",
                     "from": {
                         "startLines": "4,5,6",
                         "startColumns": "4,4,4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/wangchengyu/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/f53c2b654321ac8262eba427db32804a/res/values-kn/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/fa0d1dec4230c11af5f563e6bd27b439/res/values-kn/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/wangchengyu/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/e060b6e17b5575b612e92f55ce8384ed/res/values-kn/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/918560d72667c2fba497fa2230283c2f/res/values-kn/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,7 +89,7 @@
                     }
                 },
                 {
-                    "source": "/Users/wangchengyu/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/4edee35b833cefd754b599dfe72abd31/res/values-kn/values.xml",
+                    "source": "/Users/StevenYang/.gradle/caches/transforms-1/files-1.1/play-services-places-9.4.0.aar/6c4b7af84394576717e414a845b45fd1/res/values-kn/values.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",
@@ -86,23 +103,6 @@
                         "startOffsets": "6854,6964",
                         "endColumns": "109,95",
                         "endOffsets": "6959,7055"
-                    }
-                },
-                {
-                    "source": "/Users/wangchengyu/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/56b231b2813f343e58174112376364dc/res/values-kn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "288",
-                        "endColumns": "108",
-                        "endOffsets": "392"
-                    },
-                    "to": {
-                        "startLines": "58",
-                        "startColumns": "4",
-                        "startOffsets": "7060",
-                        "endColumns": "108",
-                        "endOffsets": "7164"
                     }
                 }
             ]
